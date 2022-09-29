@@ -1,0 +1,9 @@
+.vscode
+.DS_Store
+desktop.ini
+libft-war-machine
+tripouille
+a.out
+*.o
+libftprintf.a
+libft.a
